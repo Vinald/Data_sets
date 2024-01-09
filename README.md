@@ -11,7 +11,7 @@ the commands include
     - stop (yimirira)
     - and a wakeword command "GAALI"
 
-# LEnglish voice commands dataset
+# English voice commands dataset
 This is a dataset of different voice commands 
 the commands include
     - right
