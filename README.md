@@ -33,5 +33,11 @@ This is a data set about different radiation particles
 
 # Seed dataset
 
-# Soel bike data
+# Soel bike dataset
 Dataset about bike usage in different seasons
+
+# Insurance dataset
+Using age and affordability to determine if one can purchase an insurance
+
+# Titanic dataset
+Has training and testing datasets
