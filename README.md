@@ -26,20 +26,4 @@ This contains the instrument sounds of ten different instruments.
 # Luganda wheelchair movement commands dataset
 This is a dataset of different motor movement commands in Luganda
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Covid_19 2020 dataset
